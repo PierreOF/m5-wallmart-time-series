@@ -2,6 +2,14 @@
 
 Este repositório contém a análise e previsão das séries temporais da base de vendas de produtos M5 do Walmart. Utilizando a biblioteca Nixtla, a previsão é feita para diferentes categorias, como produtos, estados, valor e lojas.
 
+## Análise do Projeto X
+ - Foi observado uma falha na divisão de dados para treino e teste. Para séries temporais o ideal seria dividir os dados de teste com 6 meses os dados , estava (80% para treino e 20% para teste)
+
+## Análise do Projeto Y
+ - Foi observado uma falha na divisão de dados para treino e teste. Para séries temporais o ideal seria dividir os dados de teste com 6 meses os dados , estava (80% para treino e 20% para teste)
+ - Realizaram Forecasting de todas as séries de uma vez. 
+ - Poderiam dividir melhor as células de código (organização).
+   
 ## Descrição
 
 Os notebooks neste repositório fazem previsões de séries temporais usando a biblioteca Nixtla e seguem a metodologia CRISP-DM. A base de dados M5 do Walmart é amplamente utilizada em competições de previsão, contendo informações detalhadas sobre vendas de produtos ao longo do tempo.
