@@ -30,5 +30,4 @@ O projeto está organizado em cinco notebooks principais:
 - **Nixtla**: Biblioteca principal utilizada para a previsão de séries temporais.
 - **Pandas**: Utilizada para manipulação e análise de dados.
 - **NumPy**: Utilizada para operações numéricas.
-- **Matplotlib** e **Seaborn**: Utilizadas para visualização dos dados e dos resultados das previsões.
 - **Holidays**: Para entender as vendas por feriados
