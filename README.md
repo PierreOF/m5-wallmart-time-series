@@ -9,6 +9,10 @@ Este repositório contém a análise e previsão das séries temporais da base d
  - Foi observado uma falha na divisão de dados para treino e teste. Para séries temporais o ideal seria dividir os dados de teste com 6 meses os dados , estava (80% para treino e 20% para teste)
  - Realizaram Forecasting de todas as séries de uma vez. 
  - Poderiam dividir melhor as células de código (organização).
+ - (Remoção de outliers) - É recomendável tentar entender o padrão por trás daquela variação dos dados .
+ - Casos que não são adequados de fazer a remoção de outliers
+   1 - Sazonalidades - Ex : mês de dezembro ter uma alta de venda comparado a outros meses. 
+   2 - Promoções - Ex : a loja costuma fazer promoções e por isso as vendas daquele mês foram mais altos do que em outros meses 
    
 ## Descrição
 
