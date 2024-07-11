@@ -4,7 +4,7 @@ Este repositório contém a análise e previsão das séries temporais da base d
 
 ## Descrição
 
-Os notebooks neste repositório fazem previsões de séries temporais usando a biblioteca Nixtla e utilizando as metodologias CRISP-DM e SEMMA. A base de dados M5 do Walmart é um conjunto de dados amplamente utilizado em competições de previsão, contendo informações detalhadas sobre vendas de produtos ao longo do tempo.
+Os notebooks neste repositório fazem previsões de séries temporais usando a biblioteca Nixtla e seguem a metodologia CRISP-DM. A base de dados M5 do Walmart é amplamente utilizada em competições de previsão, contendo informações detalhadas sobre vendas de produtos ao longo do tempo.
 
 ## Metodologia
 
@@ -20,18 +20,6 @@ CRISP-DM (Cross Industry Standard Process for Data Mining) é uma metodologia pa
 6. **Desdobramento:** Implementação dos modelos em um ambiente de produção.
 
 ![CRISP-DM](https://miro.medium.com/v2/resize:fit:988/0*tA5OjppLK627FfFo)
-
-### SEMMA
-
-SEMMA (Sample, Explore, Modify, Model, Assess) é uma metodologia desenvolvida pelo SAS para modelagem de dados. As etapas incluem:
-
-1. **Sample:** Amostragem dos dados.
-2. **Explore:** Exploração dos dados para encontrar padrões.
-3. **Modify:** Modificação e transformação dos dados.
-4. **Model:** Construção dos modelos preditivos.
-5. **Assess:** Avaliação dos modelos.
-
-![SEMMA](https://documentation.sas.com/api/docsets/emref/14.3/content/images/semma.png?locale=en)
 
 ## Estrutura do Projeto
 
