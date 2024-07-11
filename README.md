@@ -55,6 +55,7 @@ O projeto está organizado nas seguintes pastas principais:
      - Realiza a previsão das vendas com base nos estados.
   
 - **preds:** Diretório com os resultados das previsões dos modelos.
+- **scripts:** Diretório com os scripts em python.
 
 
   
