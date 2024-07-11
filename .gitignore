@@ -1,1 +1,3 @@
 *.pkl
+*.db
+__pychache__
